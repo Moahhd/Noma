@@ -1,9 +1,9 @@
 {
-    "name": "ماكس",
-    "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
-    "logo" : "https://telegra.ph/file/03671e4f4db95bfbdf9d2.jpg",
+    "name": "بطاطا",
+    "description": " اهلا بكم في تنصيب سورس صيد اليوزرات بطاطا",
+    "logo" : "https://telegra.ph/file/83TXKm3HvGQwRxKS8.jpg",
     "stack": "container",
-    "repository": "https://github.com/abbasabb55/rhy",
+    "repository": "https://github.com/Mohaa/rhy",
     "keywords": [
         "python",
         "chatbot",
